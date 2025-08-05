@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/pearlina-portfolio/static/css/main.507a3381.css",
+    "main.js": "/pearlina-portfolio/static/js/main.e1d91140.js",
+    "index.html": "/pearlina-portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.507a3381.css",
+    "static/js/main.e1d91140.js"
+  ]
+}
